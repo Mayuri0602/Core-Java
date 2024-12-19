@@ -2,7 +2,7 @@ import java.util.*;
 public class Ques6 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the month number");
+        System.out.println("Enter the month number:");
         int month=sc.nextInt();
         switch (month) {
             case 1:{

@@ -15,18 +15,3 @@ public class Sum10 {
 }
 
 
-// public class Sum10{
-//     public static void main(String[] args){
-//         int a=0,b=1,c;
-//         System.out.print(a+" "+b);
-//         int d=1;
-
-//         while(d<=5){
-//             c=a+b;
-//             System.out.print(" "+c);
-//             a=b;
-//             b=c;
-//             d++;
-//         }
-//     }
-// }

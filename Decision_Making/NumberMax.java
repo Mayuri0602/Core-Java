@@ -4,11 +4,11 @@ public class NumberMax{
       Scanner sc=new Scanner(System.in);
     System.out.println("Enter one number");
    int a=sc.nextInt();
-       if(a>5){
-       System.out.print("a is greater than 5");
+       if(a>10){
+       System.out.print("a is greater than 10");
       } 
       else{
-         System.out.print("a is not greater than 5");
+         System.out.print("a is not greater than 10");
       }
    }
 }

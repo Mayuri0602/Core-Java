@@ -2,7 +2,7 @@ import java.util.*;
 public class Ques1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the number");
+        System.out.print("Enter the number : ");
         int weekdays=sc.nextInt();
         switch (weekdays) {
             case 1:{

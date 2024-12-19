@@ -1,4 +1,5 @@
-public class Question1 {
+package If_else_advance;  
+        public class Question1 {
     public static void main(String[] args) {
        int year=2008;
        System.out.println("year" +year);

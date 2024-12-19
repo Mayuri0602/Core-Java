@@ -32,7 +32,7 @@ public class Sum14{
                 int end=oc.nextInt();
                 for(int i=start;i<=end;i++){
                     if(i%2==0){
-                        System.out.print(i);
+                        System.out.print(i+ " ");
                     }
                 }
             }

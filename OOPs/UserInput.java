@@ -6,7 +6,7 @@ class A{
         System.out.println("Addition");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        System.out.println("Enter the value of a and b\n");
+        System.out.println("Enter the value of a and b");
         int c=a+b;
         System.out.println("Sum=" +c);
     }
@@ -16,7 +16,7 @@ class A{
         System.out.println("Subtraction");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        System.out.println("Enter the value of a and b\n");
+        System.out.println("Enter the value of a and b");
         int c=a-b;
         System.out.println("Sub=" +c);
     }
@@ -26,7 +26,7 @@ class A{
         System.out.println("Multiplication");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        System.out.println("Enter the value of a and b\n");
+        System.out.println("Enter the value of a and b");
         int c=a*b;
         System.out.println("Product=" +c);
     }
@@ -36,8 +36,8 @@ class A{
         System.out.println("Division");
         int a=sc.nextInt();
         int b=sc.nextInt();
-        System.out.println("Enter the value of a and b\n");
-        int c=a+b;
+        System.out.println("Enter the value of a and b");
+        int c=a/b;
         System.out.println("Div=" +c);
     }
     }
@@ -45,7 +45,7 @@ class A{
     class B{
     void even( ){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Even number");
+        System.out.println("Even number\n");
         System.out.println("Enter a number");
         int a = sc.nextInt();
         if(a%2==0){
@@ -59,7 +59,7 @@ class A{
     class C{
         void odd( ){
             Scanner sc=new Scanner(System.in);
-            System.out.println("Odd number");
+            System.out.println("Odd number\n");
             System.out.println("Enter a number");
             int a=sc.nextInt();
             if (a%2!=0){

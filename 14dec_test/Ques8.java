@@ -17,7 +17,7 @@ public static void main(String[] args) {
         System.out.println("Grade D");
     }
     else{
-        System.out.println("Fail");
+    System.out.println("Fail");
     }
-}    
+}
 }

@@ -8,7 +8,8 @@ public class CharMatch {
             System.out.println("apple");
         } 
         else if (ch=='b'){
-        System.out.println("ball");}
+        System.out.println("ball");
+    }
         else if (ch=='c'){
             System.out.println("cat");
         }

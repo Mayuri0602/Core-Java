@@ -1,6 +1,6 @@
 import java.util.*;
 public class Operators {
-    public static void main(String[] args) {
+    public static void main(Ques4[] args) {
     Scanner sc=new Scanner(System.in);
     System.out.println("enter num1 : ");
     int num1=sc.nextInt( );

@@ -18,7 +18,7 @@ public class Problem7{
         System.out.println( "value of n2 is greater" ); 
      }  
      else if (n1==n2){
-        System.out.println("values of both numbers are equal"  );    
+        System.out.println("value of both numbers are equal"  );    
     }
     else{
         System.out.println("input not matched");

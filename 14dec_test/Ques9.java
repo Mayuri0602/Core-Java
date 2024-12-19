@@ -3,7 +3,7 @@ public class Ques9 {
         int n=20;
         while(n<30){
             if (n%2==0){
-                System.out.print("even number :" +n);
+                System.out.println("even number :" +n);
             }
             n++;
         }

@@ -16,7 +16,7 @@ public class Problem9 {
         char grade;
 
         total = sub1 + sub2 + sub3 + sub4 + sub5;
-        avg = (total / 5);
+        avg = (float)(total / 5);
 
         if (avg > 80)
            { grade = 'A';}

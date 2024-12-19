@@ -12,7 +12,7 @@ public class Ques13 {
             sum=sum*10+rem;
             num=num/10;
         }
-      //  System.out.println("sum:"+sum);
+      
         if(temp==sum){
             System.out.println("Palindrome number");
         }

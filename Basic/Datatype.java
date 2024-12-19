@@ -46,12 +46,12 @@
 // }
 
 
-public class Datatype {
-    public static void main(String[] args) {
-        float f= 98.45f;
-        System.out.println("float : " +f);
-    }
-}
+// public class Datatype {
+//     public static void main(String[] args) {
+//         float f= 98.45f;
+//         System.out.println("float : " +f);
+//     }
+// }
 
 
 // public class Datatype {

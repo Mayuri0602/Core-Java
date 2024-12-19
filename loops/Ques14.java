@@ -9,7 +9,7 @@ public class Ques14 {
         int table;
         while(i<=10){
             table=i*n;
-            System.out.println("Table of +'n' =" +table);
+            System.out.println (+table);
             i++;
         }
     }

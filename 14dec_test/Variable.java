@@ -1,6 +1,6 @@
 import java.util.*;
 public class Variable {
-public static void main(String[] args) {
+public static void main(Ques4[] args) {
     Scanner sc=new Scanner (System.in);
     System.out.println("enter the age");
     int n=sc.nextInt();

@@ -1,6 +1,6 @@
 public class Sum2 {
     public static void main(String[] args) {
-        int n=1321;
+        int n=12321;
         int temp=n;
         int rem,sum=0;
         while(n>0){

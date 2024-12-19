@@ -16,8 +16,9 @@ public class Problem6
         double f = celsius*1.8+32; 
     
         double c = (fahrenheit-32)/1.8;
-    
+        
+        System.out.println("Value of "+celsius+" celsius in fahrenheit: "+ f);
         System.out.println("Value of "+fahrenheit+" fahrenheit in celsius: "+ c);   
-        System.out.println("Value of "+celsius+" celsius in fahrenheit: "+ f);   
+           
    }
 }
